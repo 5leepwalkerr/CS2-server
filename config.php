@@ -11,7 +11,7 @@ $Website_Subfolder = '';
 
 // Place here your domain if steam authorize not working properly,
 // if its working good then leave it empty.
-$Website_Domain = 'https://cs2-server-production.up.railway.app/';
+$Website_Domain = '';
 
 // Enable this if you want categories else it will display all weapons.
 $Website_UseCategories = true;
@@ -37,7 +37,7 @@ $DatabaseInfo = [
     'database' => 'railway',
     'username' => 'root',
     'password' => 'ySViLbUoAjNDpYzognviviuMgMYmGdVM',
-    'port' => '3306'
+    'port' => '21187'
 ];
 
 // -----------------
