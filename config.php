@@ -29,7 +29,7 @@ $Website_Settings = [
 ];
 
 // Write here your steam api key, get one from here: https://steamcommunity.com/dev/apikey.
-$SteamAPI_KEY = '';
+$SteamAPI_KEY = '582DC71D1595C7CA2D7A42A3A1C87042';
 
 // Write here your database login details.
 $DatabaseInfo = [
