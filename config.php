@@ -33,10 +33,10 @@ $SteamAPI_KEY = '';
 
 // Write here your database login details.
 $DatabaseInfo = [
-    'hostname' => '',
-    'database' => '',
-    'username' => '',
-    'password' => '',
+    'hostname' => '46.174.50.7',
+    'database' => 'u38711_aa',
+    'username' => 'u38711_aa',
+    'password' => 'Ytrewq09070501',
     'port' => '3306'
 ];
 
