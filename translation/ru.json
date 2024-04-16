@@ -1,5 +1,5 @@
 {
-    "website_name": "Fighter's club CS2",
+    "website_name": "FIGHTERS-CS2",
     "invert_direction": false,
     "error": {
         "code": "Произошла ошибка {{code}}!",
@@ -10,12 +10,10 @@
         "button": "Вернуться на веб-сайт"
     },
     "login": {
-        "header": "Counter Strike 2 Server - Подключайтесь сейчас:",
+        "header": "CS2 server by @LBiceps && @s1eepwalkerr:",
         "titles": [
-            {"name": "CS2.LIELXD.COM", "hover": "Подключитесь к серверу retake", "link": "steam://connect/34.165.48.66:27015?appid=730"},
-            {"name": "CS2.LIELXD.COM", "hover": "Подключитесь к серверу surf", "link": "steam://connect/34.165.48.66:27016?appid=730"}
+            {"name": "FIGHTER'S CLUB"}
         ],
-        "footer": "пожалуйста, войдите в систему через steam, чтобы продолжить.",
         "button": "Войти через Steam"
     },
     "skins": {

@@ -1,5 +1,5 @@
 {
-    "website_name": "Fighter's club CS2",
+    "website_name": "FIGHTERS-CS2",
     "invert_direction": false,
     "error": {
         "code": "There was an error {{code}}!",
@@ -10,11 +10,10 @@
         "button": "Return to Website"
     },
     "login": {
-        "header": "CS2 server by fighters:",
+        "header": "CS2 server by LBiceps && s1eepwalkerr:",
         "titles": [
             {"name": "FIGHTER'S CLUB"}
         ],
-        "footer": "please login through Steam to continue.",
         "button": "Login via Steam"
     },
     "skins": {
