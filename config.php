@@ -33,11 +33,11 @@ $SteamAPI_KEY = '582DC71D1595C7CA2D7A42A3A1C87042';
 
 // Write here your database login details.
 $DatabaseInfo = [
-    'hostname' => '46.174.50.7',
-    'database' => 'u38711_aa',
-    'username' => 'u38711_aa',
-    'password' => 'Ytrewq09070501',
-    'port' => '3306'
+    'hostname' => 'roundhouse.proxy.rlwy.net',
+    'database' => 'railway',
+    'username' => 'root',
+    'password' => 'ySViLbUoAjNDpYzognviviuMgMYmGdVM',
+    'port' => '21187'
 ];
 
 // -----------------
