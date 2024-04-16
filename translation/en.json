@@ -10,10 +10,9 @@
         "button": "Return to Website"
     },
     "login": {
-        "header": "Counter Strike 2 Server - Connect now:",
+        "header": "CS2 server by fighters:",
         "titles": [
-            {"name": "CS2.LIELXD.COM", "hover": "Connect to Retake Server", "link": "steam://connect/34.165.48.66:27015?appid=730"},
-            {"name": "CS2.LIELXD.COM", "hover": "Connect to Surf Server", "link": "steam://connect/34.165.48.66:27016?appid=730"}
+            {"name": "FIGHTER'S CLUB"}
         ],
         "footer": "please login through Steam to continue.",
         "button": "Login via Steam"
