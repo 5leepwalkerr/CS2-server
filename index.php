@@ -14,7 +14,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="src/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="src/logo.jpg" type="image/x-icon">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/login.css">
     <title><?= $translations->website_name; ?> - login</title>
