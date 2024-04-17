@@ -1,37 +1,22 @@
-wls<?php
+<?php
 
-// Choose your translate file name located in translation/filename.json
-// You can add your own translation.
 $Website_Translate = 'en';
 
-// If you store your website on a subfolder domain,
-// Leave empty if using the domain as normal.
-// Example: cs2.lielxd.com/cs2/ | then we need here cs2 ↓
 $Website_Subfolder = '';
 
-// Place here your domain if steam authorize not working properly,
-// if its working good then leave it empty.
 $Website_Domain = 'fighters-cs2.up.railway.app';
 
-// Enable this if you want categories else it will display all weapons.
 $Website_UseCategories = true;
 
-// You can choose your own theme color
-// false/empty - will use the default color.
-// any html acceptable color - will display that color.
-// true - this will make get a random color.
 $Website_MainColor = true;
 
-// Select which settings you want in the menu.
 $Website_Settings = [
-    'language' => true,  // user can select his own language.
-    'theme' => true      // user can change his own color theme.
+    'language' => true,
+    'theme' => true
 ];
 
-// Write here your steam api key, get one from here: https://steamcommunity.com/dev/apikey.
 $SteamAPI_KEY = '582DC71D1595C7CA2D7A42A3A1C87042';
 
-// Write here your database login details.
 $DatabaseInfo = [
     'hostname' => 'roundhouse.proxy.rlwy.net',
     'database' => 'railway',
@@ -40,9 +25,6 @@ $DatabaseInfo = [
     'port' => '21187'
 ];
 
-// -----------------
-// Don't touch here.
-// -----------------
 if(session_status() != PHP_SESSION_ACTIVE) {
     session_start();
 }
