@@ -24,10 +24,10 @@
             "knifes": "Ножи",
             "pistols": "Пистолеты",
             "rifles": "Штурмовые винтовки",
-            "smg": "Smg",
+            "smg": "ПП",
             "machine_guns": "Пулеметы",
             "sniper_rifles": "Снайперские винтовки",
-            "shotguns": "Ружья",
+            "shotguns": "Дробовики",
             "gloves": "Перчатки",
             "agents": {
                 "label": "Агенты",
