@@ -1,4 +1,4 @@
-<?php
+wls<?php
 
 // Choose your translate file name located in translation/filename.json
 // You can add your own translation.
